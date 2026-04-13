@@ -1,7 +1,7 @@
 # Student Product Billing & Management System
 
 ## Author Details
-**Your Name:** Aastika Srivastva  
+**Your Name:** Aastika Shrivastava  
 **Date:** 2026-04-13  
 
 ## Description
